@@ -1,4 +1,6 @@
 # tongXunLuDemoRN
+ReactNative配合node.js实现的公司通讯录管理app
+
 ## demo项目说明
 该项目是使用ReactNative写的一个通讯录管理系统，服务端程序是使用node.js实现的，由于只是一个小demo没有使用数据库保存数据，只是使用的json文档的形式进行数据存储，使用*react-navigation*组件来实现tabbar和navigationBar,跳转到其他到页面时隐藏底部的tabbar；该项目主要分为四个部分首页、公告、管理和关于，详情如下：
 ### 首页
